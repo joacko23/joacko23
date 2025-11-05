@@ -34,11 +34,13 @@
 ---
 
 ## 🚀 Featured Projects
+
 | Project | Description | Stack |
-|----------|--------------|--------|
-| 🅿️ [**ParkOn**](https://github.com/joacko23/ParkOn) | Smart parking PWA for multiple municipalities | Spring Boot · Angular · MySQL |
-| 🧩 [**Gestor_Alquiler**](https://github.com/joacko23/Gestor_Alquiler) | Rental management system with patterns & clean architecture | Java · Spring Boot · Angular |
-| 🎮 [**Gangsta’s Life**](https://github.com/joacko23/GangstasLife) | 2D pixel-art action game inspired by Metal Slug | Godot 4 · GDScript |
+|--------|-------------|--------|
+| 🅿️ [**ParkOn**](https://github.com/joacko23/ParkOn) | Multi-municipality smart parking PWA (in development) | Spring Boot · Angular · MySQL · JWT |
+| 🧩 [**Gestor_Alquiler – Backend**](https://github.com/joacko23/Gestor_Alquiler_Backend) | REST API for vehicle & appliance rentals with Factory + Strategy patterns | Java · Spring Boot · MySQL · JWT |
+| 🧩 [**Gestor_Alquiler – Frontend**](https://github.com/joacko23/Gestor_Alquiler_Frontend) | Angular UI with dark neumorphism, Material UI, JWT auth, and CRUD screens | Angular 19 · Material · TypeScript |
+| 🎮 [**Gangsta’s Life**](https://github.com/joacko23/GangstasLife) | 2D pixel-art action shooter inspired by Metal Slug | Godot 4 · GDScript |
 
 ---
 
@@ -64,10 +66,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:3A0CA3&height=120&section=footer" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=joacko23&icon=5&color=12" />
-  </a>
-</p>
 
 
