@@ -4,20 +4,22 @@
 </p>
 
 <p align="center">
-  <b>💻 Full-Stack Developer | Java · Spring Boot · Angular · Docker</b><br>
-  <i>Building scalable apps with clean code and creative design</i>
+  <b>💻 Backend Developer | Java · Spring Boot · Microservices · Docker
+</b><br>
+  <i>Building scalable, secure backend systems with clean architecture and solid design principles
+</i>
 </p>
 
 ---
 
 ## 💫 About Me
-🔭 Currently working on **ParkOn**, a multi-municipality smart parking system built with **Spring Boot** & **Angular**.  
-🌱 Learning **microservices architecture**, **Docker**, and **Angular micro-frontends**.  
-👯 Looking to collaborate on **Java / Angular full-stack projects**.  
-👨‍💻 Main projects: **Gangsta’s Life**, **Gestor_Alquiler**, and **ParkOn** — backend, frontend & game dev.  
-💬 Ask me about **Spring Boot**, **JWT security**, **Angular standalone apps**, or **GDScript game logic**.  
-📫 Reach me at **joackodomenech@gmail.com**  
-⚡ Fun fact: I used to be a firefighter — now I fight bugs instead of fires.
+🔭 Currently developing **ParkOn**, a **backend-first microservices system** for smart parking management, designed with **Spring Boot**, **hexagonal architecture**, and **service discovery** (in progress).  
+🌱 Deepening my knowledge in **microservices architecture**, **distributed systems**, **Docker**, and **resilience patterns**.  
+👨‍💻 Focused on **backend development** with Java, building secure **REST APIs**, applying **SOLID principles** and **design patterns**.  
+🧠 Strong interest in **scalability**, **clean architecture**, and **maintainable codebases**.  
+💬 Ask me about **Spring Boot**, **JWT authentication**, **microservices**, or **backend architecture design**.  
+⚡ Fun fact: I used to be a firefighter — now I design systems that resist failure instead of fires.
+
 
 ---
 
@@ -37,17 +39,24 @@
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| 🅿️ [**ParkOn**](https://github.com/joacko23/ParkOn) | Multi-municipality smart parking PWA (in development) | Spring Boot · Angular · MySQL · JWT |
-| 🧩 [**Gestor_Alquiler – Backend**](https://github.com/joacko23/Gestor_Alquiler_Backend) | REST API for vehicle & appliance rentals with Factory + Strategy patterns | Java · Spring Boot · MySQL · JWT |
+| 🅿️ [**ParkOn**](https://github.com/joacko23/ParkOn) | Multi-municipality smart parking **backend system** based on microservices and hexagonal architecture (in development) | Spring Boot · Microservices · MySQL · JWT · Docker · Eureka (planned) |
+| 🧩 [**Gestor_Alquiler – Backend**](https://github.com/joacko23/Gestor_Alquiler_Backend) | REST API for rental management applying **Factory Method** and **Strategy** patterns, SOLID principles, and JWT-based security | Java · Spring Boot · MySQL · JWT |
 | 🧩 [**Gestor_Alquiler – Frontend**](https://github.com/joacko23/Gestor_Alquiler_Frontend) | Angular UI with dark neumorphism, Material UI, JWT auth, and CRUD screens | Angular 19 · Material · TypeScript |
 | 🎮 [**Gangsta’s Life**](https://github.com/joacko23/GangstasLife) | 2D pixel-art action shooter inspired by Metal Slug | Godot 4 · GDScript |
 
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,docker,postman,bootstrap,git,github" />
-</p>
+
+**Backend**
+Java · Spring Boot · Spring Security · JPA · MySQL · JWT · Docker
+
+**Architecture & Tools**
+REST APIs · Design Patterns · SOLID · Git · GitHub · Postman
+
+**Frontend (supporting skills)**
+Angular · TypeScript · HTML · CSS
+
 
 ---
 
